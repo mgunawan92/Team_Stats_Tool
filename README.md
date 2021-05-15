@@ -1,1 +1,1 @@
-Project demonstrating knowledge of built-in Python data types to create structures used for storing and organizing sample data. Tool also provides additional statistics display and team-average calculation functionality.
+Project demonstrating knowledge of built in Python data types to create structures used for storing and organizing sample data. Tool also provides additional statistics display and team-average calculation functionality.
